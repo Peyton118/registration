@@ -1,0 +1,62 @@
+.gender_buttons {
+    float: right;
+}
+
+.table_header {
+    color : red;
+    background-color: yellow;
+    font-size:xx-large
+}
+
+table, th, td {
+    border:1px solid black;
+  }
+
+.bottom_container{
+    display: flex;
+    justify-content: center;
+}
+
+.buttons {
+    padding: 15px 32px;
+}
+
+.enter_name{
+    padding: 6px 21px;
+    background-color:rgb(0, 183, 255);
+}
+
+.enter_password{
+    padding: 6px 21px;
+    background-color:rgb(0, 183, 255);
+}
+
+.enter_address{
+    padding: 6px 21px;
+    background-color:rgb(0, 183, 255);
+}
+
+.select_game{
+    padding: 6px 21px;
+    background-color:rgb(0, 183, 255);
+}
+
+.gender{
+    padding: 6px 21px;
+    background-color:rgb(0, 183, 255);
+}
+
+.select_ur_age{
+    padding: 6px 21px;
+    background-color:rgb(0, 183, 255);
+}
+
+.select_photo{
+    padding: 6px 21px;
+    background-color:rgb(0, 183, 255);
+}
+
+.buttons2{
+    padding: 6px 21px;
+    background-color:rgb(0, 183, 255);
+}
