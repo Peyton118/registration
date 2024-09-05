@@ -60,3 +60,7 @@ table, th, td {
     padding: 6px 21px;
     background-color:rgb(0, 183, 255);
 }
+
+.buttons {
+    margin-right: 1%;
+}
