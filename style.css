@@ -64,3 +64,31 @@ table, th, td {
 .buttons {
     margin-right: 1%;
 }
+
+.options {
+    padding: 6px 21px;
+}
+
+.name {
+    padding: 6px 21px;
+}
+
+.password {
+    padding: 6px 21px;
+}
+
+.address {
+    padding: 6px 21px;
+}
+
+.game {
+    padding: 6px 21px;
+}
+
+.gender2 {
+    padding: 6px 21px;
+}
+
+.photo {
+    padding: 6px 21px;
+}
